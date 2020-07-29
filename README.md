@@ -3,7 +3,7 @@
 [![Version](http://img.shields.io/npm/v/aframe-foo-component.svg?style=flat-square)](https://npmjs.org/package/aframe-foo-component)
 [![License](http://img.shields.io/npm/l/aframe-foo-component.svg?style=flat-square)](https://npmjs.org/package/aframe-foo-component)
 
-A Foo component for A-Frame.
+A Foo component for A-Frame. See [live example](https://mwbeene.github.io/angle-test/examples/basic/).
 
 For [A-Frame](https://aframe.io).
 
